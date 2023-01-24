@@ -4,7 +4,7 @@ function myFunc(){
 
     var input = document.getElementById("inp");
     //li.text = "hi";
-    members.innerHTML = "<li>"+input.value+"</li>";
+    members.innerHTML += "<li>"+input.value+"</li>";
 }
 window.onload = function(){
     var button = document.getElementById("button");
