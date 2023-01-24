@@ -10,4 +10,3 @@ window.onload = function(){
     var button = document.getElementById("button");
     button.onclick = myFunc;
 }
-console.log("hi1");
