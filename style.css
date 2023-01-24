@@ -1,0 +1,4 @@
+h1 {text-align: center;}
+div#myHeader {text-align: center;background-color: #fdff80; padding-top: 10px;padding-bottom: 10px;}
+body {background-color: #CBC3E3;font-family: "Lucida Console", "Courier New", monospace;}
+div#dance{display: flex; justify-content: space-around;text-align: center; padding-top: 10px;padding-bottom: 10px;}
